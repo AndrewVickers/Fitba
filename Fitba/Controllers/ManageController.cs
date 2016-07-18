@@ -7,6 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Fitba.Models;
+using Fitba.ViewModels;
 
 namespace Fitba.Controllers
 {

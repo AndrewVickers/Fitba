@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Fitba.Models
+namespace Fitba.ViewModels
 {
     public class ExternalLoginConfirmationViewModel
     {
